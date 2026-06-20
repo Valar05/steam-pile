@@ -1,6 +1,6 @@
 # Project Manifest: steam-pile
 
-- Generated: 2026-06-20T17:00:50-05:00
+- Generated: 2026-06-20T17:47:30-05:00
 - Workspace path: `/storage/emulated/0/Documents/GodotProjects/steam-pile`
 - Git repository: yes
 - Git remote: `https://github.com/Valar05/steam-pile.git`
@@ -25,6 +25,7 @@ No project orientation file was found during manifest generation. Treat this man
 - `OFL.txt`
 - `Player.tscn`
 - `project.godot`
+- `PROJECT_MANIFEST.md`
 - `RedGhost.tscn`
 - `Rock.tscn`
 - `Rye-Regular.ttf`
@@ -38,4 +39,3 @@ No project orientation file was found during manifest generation. Treat this man
 - `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.
 - `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.
 - `git lfs install --local` was attempted for this repository during the manifest pass.
-
